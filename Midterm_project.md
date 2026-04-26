@@ -1,4 +1,4 @@
-## โปรเจค AI Smart Re-Triage Assistant  
+## โปรเจค AI Smart Re-Triage Assistant  นายสามารถ จำรัส รหัส 6810038288
 
 
 ## 1) สภาพปัญหา
